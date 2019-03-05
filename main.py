@@ -24,4 +24,4 @@ def feed4():
 
 if __name__ == "__main__":
     # app.run(host = '192.168.43.51')
-    app.run(debug=True)
+    app.run()
